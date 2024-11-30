@@ -12,10 +12,3 @@
 ### 🍪 [Cookie](cookie.md)
 
 ---
-
-<style>
-body {
-  background-color: #f0f8ff; /* สีพื้นหลังอ่อน */
-  font-family: Arial, sans-serif; /* ฟอนต์แบบอ่านง่าย */
-}
-</style>
