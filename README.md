@@ -8,4 +8,4 @@
 
 [My friend](https://6530250514.github.io)
 
-[Cookie]()
+[Cookie](Cookie)
