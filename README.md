@@ -1,6 +1,6 @@
 # 🌟 [panissaraaa.github.io](https://panissaraaa.github.io)
 
-## 👩‍💻 **Panissara**
+## 👩‍💻 **Panissara Boonparkorb**
    - Noey 🎀
 
 ![alt text](Imgs/IMG_8299.jpeg)
