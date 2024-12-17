@@ -1,5 +1,5 @@
 # 🎄 Merry Christmas & Happy New Year
 
-![E-Card](Red and Green Festive Illustrative Christmas Invitation Instagram Post.png)  
+![E-Card](E-card.png)  
 
 [Go to My Profile](README.md)
