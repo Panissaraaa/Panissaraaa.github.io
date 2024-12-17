@@ -1,4 +1,4 @@
-# 🎄 Merry Christmas & Happy New Year
+# 🎄 Merry Christmas 
 
 ![E-Card](Imgs/E-card.png)  
 
