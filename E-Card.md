@@ -1,5 +1,5 @@
 # 🎄 Merry Christmas & Happy New Year
 
-![E-Card](E-card.png)  
+![E-Card](Imgs/E-card.png)  
 
 [Go to My Profile](README.md)
