@@ -20,8 +20,8 @@
 
 # 🙋🏻‍♀️ Team Members
 
-1. [Kemikha Chan-Ngam](https://kemikha01.github.io/boardgame)
-2. [Panisara Wijarn](https://6530200274.github.io/boardgame)
-3. [Penpicha Priwan](https://penpicha31.github.io/boardgame)
-4. [Manatsawee Piyasopasakul](https://manatsawee-pi.github.io/boardgame)
-5. [Pattralada Pobteepheung](https://skyandz.github.io/boardgame)
+1. [Nisita Panichwaisawan]()
+2. [Pariyakorn Kullama]()
+3. [Kanokwan Riamsri]()
+4. [Chitlada Prasroetsang]()
+5. [Panissara Boonparkorb]()
