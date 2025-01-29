@@ -23,5 +23,5 @@
 1. [Nisita Panichwaisawan](https://aomknw.github.io/boardgame)
 2. [Pariyakorn Kullama](https://tintin1906.github.io/boardgame )
 3. [Kanokwan Riamsri]()
-4. [Chitlada Prasroetsang]()b
+4. [Chitlada Prasroetsang]()
 5. [Panissara Boonparkorb]()
