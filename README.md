@@ -13,5 +13,5 @@
 
 ### 🎄 [Merry Christmas](E-Card.md)
 
-### 🛼🥇 [Boardgamr](boardgame.md)
+### 🛼🥇 [Boardgame](boardgame.md)
 ---
