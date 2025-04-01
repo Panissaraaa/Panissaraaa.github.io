@@ -16,4 +16,4 @@
 ### 🛼🥇 [Boardgame](boardgame.md)
 ### 🔐 [Security Control](Security-Control.md)
 ### 🔐 [Security requirment ](security-requirment.md)
-### 🔐 [Security requirment ](security-requirment.md)
+### 🔐 [Data granularity ](data-granularity.md)
