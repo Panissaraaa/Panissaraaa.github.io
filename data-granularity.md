@@ -3,7 +3,7 @@
 ## Definition  
 Data granularity is a measure of the level of detail in a data structure. In time-series data, for example, the granularity of measurement might be based on intervals of years, months, weeks, days, or hours. For ordering transactions, granularity might be at the purchase order level, or line item level, or detailed configuration level for customized parts. The name field could represent the full name or have separate entries for first name, middle name, and last name.  
 
-## Chat pgt  
+## Chat gpt  
 ความละเอียดของข้อมูล (Data Granularity) เป็นตัวชี้วัดระดับของรายละเอียดในโครงสร้างข้อมูล ตัวอย่างเช่น ในข้อมูลแบบอนุกรมเวลา (Time-Series Data) ระดับความละเอียดอาจขึ้นอยู่กับช่วงเวลาที่ใช้วัด เช่น รายปี รายเดือน รายสัปดาห์ รายวัน หรือรายชั่วโมง  
 
 ## Gemini  
